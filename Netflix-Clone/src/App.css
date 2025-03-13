@@ -1,0 +1,6 @@
+.App {
+ background-color: black;
+}
+.main-content {
+  min-height: 70vh; /* Adjust this to push the footer down */
+}
