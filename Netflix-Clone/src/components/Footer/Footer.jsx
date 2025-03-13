@@ -24,6 +24,7 @@ function Footer() {
             <li>Legal Notice</li>
           </ul>
         </div>
+        
 
         <div>
           <ul>
